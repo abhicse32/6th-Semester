@@ -1,0 +1,1399 @@
+@John Augustine 
+Mohamed Aly
+Guru Prakash Arumugam
+Sudarshan Banerjee
+Ioannis Caragiannis
+Ning Chen
+Sandip Das
+Anand Deshpande
+Edith Elkind
+David Eppstein
+Angelo Fanelli
+Mangesh Gharote
+Mordecai J. Golin
+Nick Gravin
+Qi Han
+Sandy Irani
+Deepak Jeswani
+Christos Kalaitzis
+Nakul Korde
+Tejas Kulkarni
+Philip Loden
+Sachin Lodha
+Anil Maheshwari
+Ankit Mehrotra
+Anisur Rahaman Molla
+Ehab Morsy
+Paresh Nakhe
+Subhas C. Nandy
+Maitreya Natu
+Gopal Pandurangan
+Dinesh Patil
+Sangameshwar Patil
+Brian Putnam
+Amanda Redlich
+Peter Robinson
+Sasanka Roy
+Swami Sarvattomananda
+Dmitry Shiryaev
+Prashanth Srikanthan
+Chaitanya Swamy
+Eli Upfal
+Harrick M. Vin
+Kevin A. Wortman
+@Shankar Balachandran
+Madhur Amilkanthwar
+Ch. Sobhan Babu
+Dinesh Bhatia
+Nitin Chandrachoodan
+Ashok Gautham
+Ankit Kagliwal
+V. Kamakoti
+PariVallal Kannan
+Kunal Korgaonkar
+Sajin Koroth
+Biswabandan Panda
+Seetal Potluri
+Chidhambaranathan Rajamanikkam
+B. N. B. Ray
+Patanjali SLPSK
+Sharmistha
+Satya Trinadh
+V. Kamakoti
+@Sutanu Chakraborti
+Vivek Balaraman
+Ulises Cervi
+Sanjay Kumar Choudhury
+Sandeep Chougule
+K. V. S. Dileep
+Saurabh Gupta
+David J. Harper
+Swapnil Hingmire
+Karthik Jayanthi
+Debarun Kar
+Deepak Khemani
+Ivan Koychev
+Anand Kumar
+Bibekananda Kundu
+Robert Lothian
+Stewart Massie
+Rahman Mukras
+Amandine Orecchioni
+Deepak P
+Girish K. Palshikar
+Anil Patelia
+M. A. Raghunandan
+B. Ravindran
+Shubhranshu Shekhar
+Pranay Kumar Venkata Sowdaboina
+Somayajulu Sripada
+Skanda Raj Vasudevan
+Stuart N. K. Watt
+Nirmalie Wiratunga
+@C. Chandra Sekhar
+Walter Anheier
+R. Anitha
+Kavi Arya
+G. Athithan
+B. Balasanjeevi
+Umesh Bellur
+V. Srinivasa Chakravarthy
+S. Chandrakala
+Shanmuganathan Chandrakala
+Priya Chandran
+Sanjay Chaudhary
+A. D. Dileep
+Aroor Dinesh Dileep
+Ansgar Drolshagen
+P. Eswar
+Venkata Ramana Rao Gadde
+Suryakanth V. Gangashetty
+S. K. Gupta
+G. Haranadh
+Fumitada Itakura
+Venkataramana B. Kini
+Murali Krishnan
+K. R. Prasanna Kumar
+S. D. Madhu Kumar
+Weifeng Lee
+Xiaolin Li
+Kamesh Madduri
+A. S. Madhukumar
+Anupam Mandal
+Harendra Kumar Mishra
+B. S. Shajee Mohan
+Nanjangud C. Narendra
+Sheetal Reddy Pamudurthy
+Lakshmi Narayana Panuku
+Manish Parashar
+M. Prakash
+Sushil K. Prasad
+S. Rajendran
+A. Vijaya Rama Raju
+K. Nagamma Reddy
+Ved Prakash Sahu
+D. Srikrishna Satish
+N. Sudha
+R. Suguna
+H. Swethalakshmi
+Kazuya Takeda
+Carlos Valera
+T. Veena
+Bayya Yegnanarayana
+@Sukhendu Das
+R. Abhilash
+Raman Balasubramanian
+Chiranjoy Chattopadhyay
+Amitava Datta
+Gyanesh Dwivedi
+A. Dyana
+Aakanksha Gagrani
+Thomas Greiner
+Lalit Gupta
+Himanshu Prakash Jain
+Padmaja Joshi
+Manisha Kalra
+V. Kamakoti
+Deepak Khemani
+A. Pavan Kumar
+Utthara Gosa Mangai
+Mary Joseph Minu
+T. T. Mirnalinee
+Anurag Mittal
+V. K. Panchal
+Deepti Parachuri
+Vinod Pathangay
+Arpita Patra
+Surya Prakash
+Manika Puri
+Subrata Rakshit
+Shivani G. Rao
+B. Ravindran
+Sudeshna Roy
+Pinaki Roychowdhury
+Shiva Rudrani
+Suranjana Samanta
+Variganti Saritha
+Tirumarai Selvan
+Sunando Sengupta
+Renu Sharma
+Prateek Shrivastava
+Anbumani Subramanian
+M. P. Subramanian
+Krishnan Swaminathan
+S. Udayabaskaran
+Koshy Varghese
+Megha Vora
+@T. A. Gonsalves
+Poorva Agrawal
+Nadeem Akhtar
+Patrik Arlos
+Rajat Arya
+Alankar Bandyopadhyay
+Anuraag Bhardwaj
+Kathy Buckner
+Dinil Mon Divakaran
+Markus Fiedler
+Archana Ghode
+Thejus Giri
+R. K. Hariram
+V. Bharathi Harishankar
+Chundury Jagadish
+Vinod Kumar Jammula
+Ashok Jhunjhunwala
+B. Kumar
+Ramachandran Madanagopal
+Atul B. Mahamuni
+Saloni Malhotra
+Aaron McConnell
+Klaus Moessner
+Andrew F. Monk
+Hema A. Murthy
+Hans Nottehed
+Adetola Oredope
+Barun Kumar Parichha
+Gerard P. Parr
+Deepak Pengoria
+Cathryn Peoples
+Bhaskar Ramamurthi
+N. Usha Rani
+P. Rathi
+Maryma Scotlin
+Reena Singh
+Sanasam Ranbir Singh
+Karthik Srinivasan
+Ravinder Thirumala
+Fouad A. Tobagi
+Alladi Venkatesh
+D. Venkatesulu
+@D. Janakiram
+Vijay Srinivas Agneeswaran
+K. N. Anantharaman
+K. Arun
+Chitra Babu
+S. J. Balaji
+Souvik Barat
+K. J. Binu
+Mohit Chakraborty
+Himanshu Chauhan
+V. R. Devanathan
+Prateek Dhawalia
+K. Ganeshan
+Nathan Gnanasambandam
+Tarun Gopinath
+Ashok Gunnam
+K. N. Guruprasad
+Harisankar Haridas
+Geeta Iyer
+S. Jayaprakash
+Binu K. Johnson
+Rushikesh K. Joshi
+B. S. Jyothi
+Sriram Kailasam
+R. Karthikeyan
+Muhammad Abdul Muqsit Khan
+K. Krishna
+Vinay Kulkarni
+A. Uday Kumar
+A. V. U. Phani Kumar
+Arun Kumar
+G. Ashok Kumar
+L. Rajesh Kumar
+S. Santosh Kumar
+M. Uma Mahesh
+Hemang Mehta
+M. A. Maluk Mohamed
+N. Krishna Mohan
+R. M. Muthukumar
+Suneetha Nadella
+Anindya Neogi
+Anjaneyulu Pasala
+Kovendhan Ponnavaikko
+Sateesh Pragallapati
+Vineet Rajani
+M. S. Rajasree
+J. Rajesh
+S. V. G. K. Raju
+O. Ramakrishna
+R. Ramakrishnan
+P. Manjula Rani
+A. Ananda Rao
+C. Srinivas Rao
+Ch. Srinivasa Rao
+K. Vinay Kumar Reddy
+M. Venkateswara Reddy
+P. Jithendra Kumar Reddy
+V. G. Renumol
+N. S. K. Chandra Sekhar
+K. Chandra Sekharaiah
+Koushik Sen
+Naveen Sharma
+Tushar Sharma
+M. Sreekanth
+T. H. Sreenivas
+S. Srinath
+K. Ganapathy Subramaniam
+N. Suneetha
+Adi Mallikarjuna Reddy V
+R. Venkateswarlu
+N. Vivekananda
+@V. Kamakoti
+V. Annamalai
+K. Arvind
+Ch. Sobhan Babu
+Shankar Balachandran
+N. Balakrishnan
+Roopashree Baskaran
+Luca Benini
+K. Uday Bhaskar
+D. Bhatia
+A. Bhattacharya
+Jayaram Bobba
+Siva Nageswara Rao Borra
+Sanjay Burman
+Nitin Chandrachoodan
+G. Chandramouli
+Vikram Chandrasekhar
+Sukhendu Das
+V. R. Devanathan
+Stefan Eichenberger
+Neel Gala
+Virat Gandhi
+Shankar Ganesh
+V. Ganesh
+Vivek Garg
+M. Gautam
+K. George
+N. H. V. Krishna Giri
+Thomas Graf
+Vishal Gupta
+Karthik Gururaj
+Siva Kumar Sastry Hari
+Camelia Hora
+Lavanya Jagan
+B. Jayaram
+Vishnu Vardhan Reddy Konda
+C. S. Krishnamoorthy
+Kamala Krithivasan
+Bram Kruseman
+A. Manoj Kumar
+A. Pavan Kumar
+Anish S. Kumar
+L. Kalyan Kumar
+M. Pawan Kumar
+K. Kunal
+George Kurian
+V. Bala Kuteshwar
+N. S. Janaki Latha
+M. Madhu
+Sk. Noor Mahammad
+Ananta K. Majhi
+Kailasnath Maneparambil
+K. S. Maneperambil
+R. Manimegalai
+Rajat Mehrotra
+Giovanni De Micheli
+Shoaib Mohammed
+P. Jagan Mohan
+Amol J. Mupid
+Srinivasan Murali
+V. Muralidharan
+V. Srinivasa Murty
+Annamalai Muthukaruppan
+Madhu Mutyam
+K. Najeeb
+Rama Kumar Pasumarthi
+Virendra Patidar
+Milan Patnaik
+Seetal Potluri
+Ramachandran Pradeep
+Chakka Siva Sai Prasanna
+M. Prasanth
+Permandla Pratibha
+Karthik Raghavan
+Aditya S. Ramani
+C. Pandu Rangan
+P. Rangarajan
+Narayana Rao
+Srivaths Ravi
+C. P. Ravikumar
+B. Ravindran
+E. Syam Sundar Reddy
+Milagros Sashik
+Kavish Seth
+K. Shyamala
+Ratan Deep Singh
+E. Siva Soumya
+K. Srinathan
+Karthik Srinivasan
+S. Srinivasan
+L. Srivani
+P. Subrahmanya
+N. Sudha
+Sivaprakasam Suresh
+Satya Trinadh
+Vivekananda M. Vedula
+Narayanan Vijaykrishnan
+J. Vimalkumar
+S. Vinay
+V. Visvanathan
+K. N. Viswajith
+@Deepak Khemani
+Vipin Balachandran
+Rakesh Bangani
+Ulises Cervi
+Sergio Jim
+Sutanu Chakraborti
+Sukhendu Das
+Ananda Rabi Dhar
+Bharat Ranjan Kavuluri
+P. Kiran
+Anand Kumar
+P. Sreenivasa Kumar
+Sandeep Kumar
+Robert Lothian
+Stewart Massie
+M. Michael
+S. M. Michael
+Mary Joseph Minu
+I. Murugeswari
+N. S. Narayanaswamy
+Deepak P
+Girish Keshav Palshikar
+Kiran Kumar Penta
+Bhanu Prasad
+K. Prasanna
+Frederic Py
+M. A. Raghunandan
+Kanna Rajan
+Delip Rao
+Mohamed A. K. Sadiq
+Naresh Babu Saladi
+Variganti Saritha
+Manish Sarkar
+Radhika B. Selvamani
+U. Senthil
+Shubhranshu Shekhar
+Nirmalie Wiratunga
+R. Syama Sundar Yadav
+Bayya Yegnanarayana
+@P. Sreenivasa Kumar
+M. Archana
+G. Suresh Babu
+A. Basu
+Anirban Basu
+Rahul Bharuka
+S. Chandra
+C. Ravindranath Chowdary
+Shantanu Godbole
+Sairam Gurajada
+R. Gururaj
+M. Jain
+Deepak Khemani
+P. Kiran
+M. Kishore Kumar
+M. Shiva Kumar
+Nitin Kumar
+C. E. Veni Madhavan
+M. K. MadhuMohan
+Kunal Mulay
+Saleena N
+M. Lakshmi Narayana
+Abdul Nizar
+Srinivasan Parthasarathy
+Lalit M. Patnaik
+K. Hima Prasad
+N. Kalyana Rama Prasad
+K. Prasanna
+B. V. N. Prashant
+B. V. Purushotham
+Aneesh Raj
+E. Ezhil Rajan
+B. R. Kuldeep Reddy
+Sandhya Revuri
+M. Sravanthi
+G. V. Subramanyam
+Sujatha R. Upadhyaya
+N. Ch. Veeraraghavulu
+Rajasekhar Velamuri
+K. R. Venugopal
+C. Vijayanand
+@Rajsekar Manokaran	
+Sanjeev Arora
+Per Austrin
+Aditya Bhaskara
+Arnab Bhattacharyya
+Moses Charikar
+ctor Dalmau
+Venkatesan Guruswami
+Johan H
+Andrei A. Krokhin
+Amit Kumar
+Konstantin Makarychev
+Joseph Naor
+Prasad Raghavendra
+Sushant Sachdeva
+Roy Schwartz
+Maxim Sviridenko
+Madhur Tulsiani
+Aravindan Vijayaraghavan
+Nisheeth K. Vishnoi
+Cenny Wenner
+@Chester Rebeiro
+Gaurav Bajaj
+Shivam Bhasin
+Sarani Bhattacharya
+Dipanwita Roy Chowdhury
+Amit Datta
+A. S. L. Devi
+Toshinori Fukunaga
+Sylvain Guilley
+Suvadeep Hajra
+Sagar Khurana
+Souvik Kolay
+Mainack Mondal
+Debdeep Mukhopadhyay
+Phuong Ha Nguyen
+R. Pitchiah
+Rishabh Poddar
+Axel Poschmann
+Sankara Reddy
+Sujoy Sinha Roy
+Anupam Sadhukhan
+A. David Selvakumar
+Sahil Sharma
+Junko Takahashi
+Huaxiong Wang
+@Anurag Mittal
+Sreyasee Bhattacharjee
+Loong Fah Cheong
+Sukhendu Das
+Larry S. Davis
+Ahmed M. Elgammal
+Abhinav Gupta
+Raj Gupta
+Daniel P. Huttenlocher
+Arpit Jain
+Himanshu Prakash Jain
+Anoop R. Katti
+Ser
+Venkatesh Manickavasagam
+Smit Marvaniya
+Antoine Monnet
+Asuthosh Nair
+Swagatika Panda
+Toufiq Parag
+Nikos Paragios
+Sarthak Parui
+Harshal Patil
+Mahesh Ramasubramanian
+Visvanathan Ramesh
+Swarna Kamlam Ravindran
+Saiprasad Ravishankar
+Reddy M. Sailaja
+Achint Setia
+Sushant Sharma
+Anbumani Subramanian
+Liang Zhao
+@Hema A. Murthy
+Akshay Anantapadmanabhan
+Jyotsana Balleda
+Alankar Bandyopadhyay
+Fran
+Naliniprava Behera
+Ashwin Bellur
+M. Bhuvaneshwari
+R. Golda Brunet
+Veena Desai
+M. Sheeba Diana
+Dinil Mon Divakaran
+Shrey Dutta
+Venkata Ramana Rao Gadde
+L. Sarada Ghadiyaram
+Archana Ghode
+T. A. Gonsalves
+V. Bharathi Harishankar
+Larry P. Heck
+Rajesh M. Hegde
+R. Indumathi
+Vignesh Ishwar
+Cyriac James
+Ashok Jhunjhunwala
+Nemala Sridhar Krishna
+A. Lakshmi
+Srikanth R. Madikeri
+N. Mohana
+K. V. Madhu Murthy
+Hemalatha Nagarajan
+T. Nagarajan
+M. Narendranath
+R. Padmanabhan
+Radhika Pal
+Sree Hari Krishnan Parthasarathi
+V. Kamakshi Prasad
+Rajeev Rajan
+S. Rajendran
+V. R. Ramachandran
+Coimbatore S. Ramalingam
+R. Ramya
+Padi Sarala
+Maryma Scotlin
+Dimple A. Shajahan
+Sanasam Ranbir Singh
+Menaga Thirumurthi
+Y. R. Venugopalakrishna
+M. V. Vinodh
+Deepa Vivekanandan
+Mitch Weintraub
+Bayya Yegnanarayana
+@C. Siva Ram Murthy
+Nikunj Aggarwal
+D. Agrawal
+Tom P. Ajith
+R. Ananthapadmanabha
+B. Anirudh
+Sivaraman K. Anirudh
+S. Babu
+Anirudh Badam
+Venkataramana Badarla
+Athula Balachandran
+S. Balaji
+Praveen Bhamidipati
+Gaurav Bhaya
+K. Bhuvaneswari
+Vibhav Bukkapatanam
+Vageesh D. C.
+Ramesh Chandra
+Mainak Chatterjee
+Girish Chowdhary
+Subir Kumar Das
+Keshav Dev
+Marudachalam Dhanaraj
+Lalit Dhingra
+Christo Frank
+A. Antony Franklin
+Venkat Raju Gandikota
+Shyamnath Gollakota
+Kartik Gopalan
+Buchi Goutham
+Krishna P. Gummadi
+Rajkishan Gunasekaran
+Indranil Gupta
+Gaurav Gurav
+Nikhil Handigol
+Paul P. Ignatius
+S. Jagadeesan
+Praveen Jayachandran
+Prasad Jayanti
+A. Jayaraj
+Subramanian Jayashree
+John P. John
+Dilip Antony Joseph
+Arun A. Kanagasabapathy
+I. Karthigeyan
+S. Kartik
+G. Raghu Kiran
+Yedugundla Venkata Kiran
+S. J. Kowshik
+G. P. Krishna
+Penumarthi Phani Krishna
+C. S. R. Krishnan
+K. Jayanth Kumar
+Paul Levi
+Sridhar Machiraju
+Jnana Pradeep Madhavarapu
+Harsha V. Madhyastha
+Veeramani Mahendran
+K. Mahesh
+Saptarshi Mahesh
+Sathi Mahesh
+V. K. Chaithanya Manam
+R. Saravana Manickam
+Anand Manikutty
+G. Manimaran
+B. S. Manoj
+Shashidhar Merugu
+Sudeepta Mishra
+Anita Mittal
+Ravi Mittal
+Gurusamy Mohan
+K. N. Balasubramanya Murthy
+M. S. Najeem
+Samphel Norden
+Lalit Kumar Pagaria
+K. K. Varghese Panicker
+Moumita Patra
+K. Srinivasa Pavan
+Douglas Antony Louis Piriyakumar
+B. Pradeep
+V. V. R. Prasad
+B. Praveen
+J. Praveen
+K. Praveen
+Thammana Praveen
+Kiran Rachuri
+Sriram Raghavan
+Hariharan Rahul
+G. Venkat Raju
+Krithi Ramamritham
+Vijayshankar Raman
+B. Venkata Ramana
+N. Rammohan
+C. Pandu Rangan
+Vutukuru Mythili Ranganath
+Srija Rangineni
+G. Ranjith
+P. Phanibhushan Rao
+Ramesh R. Rao
+S. Dharma Rao
+Shrisha Rao
+G. Sai Kiran Reddy
+Tamma Bheemarjuna Reddy
+Sanjoy Kumar Saha
+T. Sandeep
+A. Sankar
+I. Santhoshkumar
+Chava Vijaya Saradhi
+Vyas Sekar
+Archana Sekhar
+C. Selvakumar
+S. Selvakumar
+Kandasamy Selvaradjou
+Anik Sengupta
+Rajkarn Singh
+Sushant Sinha
+Rajendra Singh Sisodia
+Arun K. Somani
+N. Sreenath
+A. Sreenivas
+N. Srinivas
+R. Sriram
+S. Sriram
+B. Rama Subramaniam
+V. Sudhakar
+T. Lakshmi Sujatha
+Bheemajun Reddy Tamma
+Rahul Thakur
+Rohith Dwarakanath Vallam
+A. Mahendra Varman
+Giridhari Venkatadri
+G. Venkatesan
+T. Venkatesh
+V. Vidhyashankar
+Machiraju Vijay
+V. Vishnumurthy
+Bimal Viswanath
+Saamaja Vupputuri
+Luying Zhou
+@Madhu Mutyam
+B. Anupama
+A. Vinaya Babu
+M. Sakthi Balan
+Rodica Ceterchi
+Melvin Eze
+Vishal Gupta
+Mohammed Abid Hussain
+Mary Jane Irwin
+C. J. Janraj
+Gnaneswara Rao Jonna
+John Jose
+Arpit Joshi
+Raghavendra K
+T. Venkata Kalyan
+V. Kamakoti
+Mahmut T. Kandemir
+Ravi Kasha
+Kamala Krithivasan
+Damarla Kranthi Kumar
+Feihui Li
+K. V. Mahathi
+Pritam Majumder
+R. Manimegalai
+Kartikey Mittal
+Amol Mupid
+K. Najeeb
+Bhawna Nayak
+Abu Saad Papa
+Gheorghe Paun
+Vaka Jaya Prakash
+Rachana Radhakrishnan
+K. Raghavendra
+Krishnan Ramakrishnan
+P. Vijaya Sankara Rao
+A. Siddhartha Reddy
+Prasanna Venkatesh Rengasamy
+Andrew J. Ricketts
+Nallamothu Satyanarayana
+J. Shiva Shankar
+P. Subrahmanya
+K. G. Subramanian
+Narayanan Vijaykrishnan
+Feng Wang
+Tripti Warrier
+Yuan Xie
+@V. Krishna Nandivada
+Shivali Agarwal
+Rajkishore Barik
+Ganesh Bikshandi
+Jos
+Soham Sundar Chakraborty
+Satish Chandra
+David Detlefs
+Pankaj Dhoolia
+John Field
+Anup Ghosh
+Kartik Gupta
+Suyash Gupta
+Suresh Jagannathan
+Sreedhar B. Kodali
+Raghavan Komondoor
+Mangala Gowri Nanda
+Anjan Nandy
+Jens Palsberg
+Fernando Magno Quint
+Igor Peshansky
+Diptikalyan Saha
+Vijay A. Saraswat
+Vivek Sarkar
+Jun Shirako
+R. K. Shyamasundar
+Saurabh Sinha
+Vibha Sinha
+Sayantan Sur
+Pradeep Varma
+Tong Wen
+Jisheng Zhao
+Jisheng M. Zhao
+@Meghana Nasre
+Prabhanjan Vijendra Ananth
+Pratik Ghoshal
+Chien
+Telikepalli Kavitha
+Juli
+Dimitrios Michail
+Prajakta Nimbhorkar
+Matteo Pontecorvi
+Vijaya Ramachandran
+Kanthi K. Sarpatwar
+@Rupesh Nasre
+B. Aditya
+Martin Burtscher
+Soumen Chakrabarti
+Deepak D
+Arnab De
+Rushi Desai
+R. Govindarajan
+Arvind Hulgeri
+Hrishikesh Karambelkar
+Uday P. Khedker
+Parag
+Keshav Pingali
+Sandeep Putta
+Kaushik Rajan
+Bollu Ratnakar
+S. Sudarshan
+@N. S. Narayanaswamy
+Yossi Azar
+R. Subhash Babu
+Rolf Backofen
+Naveen Belkale
+Arjun Bhardwaj
+L. Sunil Chandran
+K. Cirino
+Kamiel Cornelissen
+Apoorve Dubey
+Amos Fiat
+Samuel Fiorini
+Esha Ghosh
+R. Gopalan
+Ravi Gummadi
+Ruben Hoeksma
+Jan Johannsen
+Anup Joshi
+Saurabh Kejriwal
+Deepak Khemani
+R. Krithika
+Anand Kumar
+Meital Levy
+Daniel Lokshtanov
+Zvi Lotker
+C. E. Veni Madhavan
+Debapriyo Majumdar
+Bodo Manthey
+Rogers Mathew
+Neeldhara Misra
+Rakesh Mohanty
+I. Murugeswari
+S. Muthukrishnan
+C. S. Rahul
+G. Ramakrishna
+Venkatesh Raman
+M. S. Ramanujan
+Venkatakrishnan Ramaswamy
+H. Ramesh
+C. Pandu Rangan
+Swapnoneel Roy
+N. Sadagopan
+Kanthi K. Sarpatwar
+Saket Saurabh
+Bal Sri Shankar
+Naveen Sivadasan
+Anju Srinivasan
+R. Subashini
+C. R. Subramanian
+Firas Swidan
+Ingmar Weber
+@S. V. Raghavan
+Ashok K. Agrawala
+S. V. Aishwarya
+D. Vasuki Ammaiyar
+R. Anitha
+B. Balajinath
+Vaduvur Bharghavan
+S. M. Bhaskar
+Raktim Bhattacharjee
+Gregor von Bochmann
+A. P. Sarath Chandar
+Mark Crovella
+N. Dhyanesh
+Susan Elias
+Laura Marie Feeney
+nter Haring
+P. J. Joseph
+R. Kalyanakrishnan
+Gabriele Kotsis
+R. S. Kripanandan
+Kamala Krithivasan
+T. Rakesh Kumar
+S. Lakshminarayanan
+Karthikeyan Mahesh
+S. P. Meenakshi
+B. Neelakantan
+Ana Pont
+B. Prabhakaran
+Mukesh M. Prabhu
+K. Satya Sai Prakash
+Guy Pujolle
+S. Radhakrishnan
+Sriram Raghavan
+G. Rajeev
+V. Sudha Rani
+Sanjay G. Rao
+A. Vasudhara Reddy
+L. Reddeppa Reddy
+Dan Rubenstein
+S. Sanand
+S. Satish
+S. Selvakumar
+Shina Sheen
+Jagannathan Srinivasan
+R. Sriram
+D. V. V. R. Subrahmanyam
+N. Swaminathan
+Satish K. Tripathi
+G. C. Vineel
+@C. Pandu Rangan
+Karthik Abinav
+Alok Aggarwal
+Akshay Agrawal
+Anugrah Agrawal
+Shivank Agrawal
+T. Aishwarya
+S. Amitanand
+Sakhi S. Anand
+Rohan F. M. Aranha
+Srinivasa Rao Arikati
+A. Arvind
+K. Arvind
+Ashwinkumar Badanidiyuru
+Saikrishna Badrinarayanan
+V. Balachandhran
+V. Balachandran
+Hari Balakrishnan
+Subha Balaraman
+Guhan Balasubramanian
+V. B. Balayogan
+A. K. Banerjee
+Prateek Barapatre
+R. C. Chakinala
+Gerard J. Chang
+Maw
+Grant A. Cheston
+Ashish Choudhury
+Satyan R. Coorg
+Ramesh Dewangan
+Cunsheng Ding
+K. S. Easwarakumar
+Stefan Felsner
+Matthias Fitzi
+Chaya Ganesh
+Juan A. Garay
+Madhu Gayatri
+Esha Ghosh
+Subhas Kumar Ghosh
+Shyamnath Gollakota
+Prasant Gopal
+C. P. Gopalakrishnan
+Ragavendran Gopalakrishnan
+Pranava R. Goundan
+Ramesh Govindan
+Thomas Graf
+Anuj Gupta
+Venkatesan Guruswami
+Sandeep Hans
+S. Harini
+Sudarshan Iyengar
+Neha Jain
+Ambika K.
+S. Kalaivani
+V. Kamakoti
+Dimitrios Kanoulas
+Ravi Kant
+Naga Naresh Karuturi
+Kwangjo Kim
+David G. Kirkpatrick
+Varad Kirtane
+Salini Selvaraj Kowsalya
+D. Sai Krishna
+S. V. Krishnan
+Kamala Krithivasan
+D. Arun Kumar
+D. Pavan Kumar
+K. Anil Kumar
+S. Kiran Kumar
+Swarun Kumar
+Abishek Kumarasubramanian
+Ranjit Kumaresan
+Ambrose Kofi Laing
+N. S. Janaki Latha
+Satyanarayana V. Lokam
+Ashwin Machanavajjhala
+M. S. Madanlal
+Veni Madhavan
+K. Madhukar
+S. M. Vijay Mahantesh
+Raveendranatha P. Mahesh
+Saptarshi Mahesh
+Sathi Mahesh
+Johann A. Makowsky
+Shaik Maleka
+Glenn K. Manacher
+R. Manokaran
+Madhav V. Marathe
+K. Preetha Mathew
+P. Jagan Mohan
+William K. Moses Jr.
+C. Siva Ram Murthy
+P. Nagavamsi
+R. Nandakumar
+Harikrishna Narasimhan
+Arvind Narayanan
+G. Sathya Narayanan
+N. S. Narayanaswamy
+S. Gopi Nath
+Shilpi Nayak
+Maurice Nivat
+Guevara Noubir
+K. R. Parthasarathy
+Arpita Patra
+B. Prabhu
+Vivek Krishna Pradhan
+V. Prakash
+N. R. Prasad
+P. Krishna Prasad
+S. Priti
+Tal Rabin
+Prasad Raghavendra
+N. Tharani Rajan
+Anand Rajaraman
+Rajmohan Rajaraman
+K. Rajasekar
+Sridhar Ramachandran
+G. Ramalingam
+Arjun Raman
+Venkatesh Raman
+Ramaswamy Ramanujam
+Amitash Ramesh
+Soumya Ramesh
+G. D. S. Ramkumar
+P. B. Ramprasad
+A. Srinivasa Rao
+R. Ravi
+D. V. S. Ravikant
+Madhukar K. Reddy
+T. V. Thirumala Reddy
+Udi Rotics
+Siddharth S
+Chandrasekar S.
+I. Sanketh
+Ahmed Saoudi
+Vinod Sekhar
+S. Sharmila Deva Selvi
+S. Seshadri
+Bhavani Shankar
+Amjed Shareef
+B. Sai Shashank
+J. Shriram
+Deepanshu Shukla
+Karan Sher Singh
+Kunwar Singh
+Balasubramanian Sivan
+R. Srikant
+V. Srikanth
+G. Srikrishna
+K. Srinathan
+Akshayaram Srinivasan
+Anand Srinivasan
+Aravind Srinivasan
+Rahul Srinivasan
+Lakshminarayanan Subramanian
+S. Sudarshan
+R. Sundar
+R. Shyam Sundar
+Ravi Sundaram
+Muralidhar Talupur
+Madhu Vaidyanathan
+Vinod Vaikuntanathan
+Avinash V. Varadarajan
+Venkatanathan Varadarajan
+Sachin Vasant
+Suresh Venkatasubramanian
+G. Venkatesan
+Layamrudhaa Renganathan Venkatesan
+Ramarathnam Venkatesan
+Sridhar Venkatesan
+Muthuramakrishnan Venkitasubramaniam
+Subhashini Venugopalan
+B. Vignesh
+M. Vijesh
+Dhinakaran Vinayagamurthy
+S. Sree Vivek
+Dorothea Wagner
+Chak
+Moti Yung
+@Sayan Ranu
+Rushi Bhatt
+Vineet Chaoji
+Minh X. Hoang
+Ravi Kokku
+Vinay Kolar
+Deepak P
+Sriram Raghavan
+Rajeev Rastogi
+Yedendra Shrinivasan
+Ambuj K. Singh
+Anand Prabhu Subramanian
+Aditya Telang
+@B. V. Raghavendra Rao
+Markus Blaser
+Karl Bringmann
+Ankit Chauhan
+Samir Datta
+Christian Engels
+Fedor V. Fomin
+Maurice J. Jansen
+Nutan Limaye
+Daniel Lokshtanov
+Meena Mahajan
+Bodo Manthey
+Konstantinos Panagiotou
+Venkatesh Raman
+Jayalal Sarma
+Saket Saurabh
+Karteek Sreenivasaiah
+Michael Thomas
+Heribert Vollmer
+@B. Ravindran
+Karthik V. Aadithya
+Shun
+Harini Ananthapadmanaban
+Rachit Arora
+Pranjal Awasthi
+Ananda Narayanan B.
+Jyotika Bahuguna
+Pragathi Priyadharsini Balasubramani
+Nilanjan Banerjee
+Andrew G. Barto
+D. Bhatia
+Arun Tejasvi Chaganty
+Sutanu Chakraborti
+Dipanjan Chakraborty
+V. Srinivasa Chakravarthy
+Addwiteey Chrungoo
+Sukhendu Das
+Dipti Deodhare
+Susan Elias
+Aakanksha Gagrani
+Prateek Gaur
+K. S. Gayathri
+Edward F. Gehringer
+Lingam Gopal
+Lalit Gupta
+Pratik Vinay Gupte
+Saket Gurukar
+Vipul P. Hattiwale
+Siddharth Kumar Jain
+Dinakar Jayarajan
+Nicholas R. Jennings
+Anupam Joshi
+V. Kamakoti
+Debarun Kar
+Saradindu Kar
+R. Rangadurai Karthick
+Kiran Kate
+Mitesh M. Khapra
+K. Madhava Krishna
+Anand Kumar
+Vikas Kumar
+Balaji Lakshmanan
+Hugo Larochelle
+Stanislas Lauly
+K. N. Magdoom
+Ankit Malpani
+Maya Manaithunai
+R. Manimegalai
+Vimal Mathew
+Amit Maurya
+N. Meenakshisundaram
+Tomasz P. Michalak
+Sumit Mittal
+Ahmed A. Moustafa
+V. Muralidharan
+Hema A. Murthy
+Pradyot Korupolu V. N.
+Shravan M. Narayanamurthy
+Jose Nunez
+Sarath Chandar A. P
+Deepak Pai
+V. K. Panchal
+Doina Precup
+Vikram Pudi
+Aswin N. Raghavan
+Serugudi Venkataraman Raghavan
+Sriram Raghavan
+Angshu Rai
+Prabakararaj Swapna Raj
+Swapna Raj Prabakara Raj
+Shyam Rajagopalan
+Lakshmi Ramachandran
+S. Raman
+Aniket Ray
+Vikas C. Raykar
+Pinaki Roychowdhury
+Amrita Saha
+Munu Sairamesh
+Yousuf Aboobaker Sait
+M. Saravanan
+B. H. Sreenivasa Sarma
+Sai Nageswar Satchidanand
+S. Shivashankar
+Satinder P. Singh
+Manimaran Sivasamy Sivamurugan
+E. Siva Soumya
+Ramesh Srinivasaraghavan
+S. Srivathsan
+Deepak Subramanian
+Shivashankar Subramanian
+Richard S. Sutton
+P. Swaminathan
+Piotr L. Szczepanski
+Ashish V. Tendulkar
+Aditya Verma
+Deepak Vijayakeerthi
+Priyesh Vijayan
+Rajagopalan Vijayasarathy
+Jeremy L. Wyatt
+Jeffrey Xu Yu
+Mohammed J. Zaki
+@Jayalal Sarma
+Anant Dhayal
+Kristoffer Arnsfelt Hansen
+Jing He
+Maurice J. Jansen
+Balagopal Komarath
+Sajin Koroth
+Abhinav Kumar
+Mrinal Kumar
+Prasun Kumar
+Hongyu Liang
+Nutan Limaye
+Satyanarayana V. Lokam
+Meena Mahajan
+Gaurav Maheshwari
+Vijay M. Patankar
+Youming Qiao
+B. V. Raghavendra Rao
+Saurabh Sawlani
+Sven Skyum
+K. S. Sunil
+Navid Talebanfard
+Bangsheng Tang
+@Krishna M. Sivalingam
+Raj Acharya
+Prathima Agrawal
+Kavinkadhirselvan Angappan
+Nilesh Bhide
+Dhananjay Bhor
+Kalyani Bogineni
+Deepak Bote
+Azzedine Boukerche
+Hakki C. Cankaya
+Xi
+Preethi Chandur
+Jyh
+Jyh
+Wesley Chen
+Satish Damodaran
+Tanmoy Das
+Debasish Datta
+Sarang Deshpande
+Jin Ding
+Shaoqiang Dong
+Patrick W. Dowd
+Rudra Dutta
+Vijay Ekambaram
+Tibor Fabry
+Jing Fang
+Ornan Ori Gerstel
+Krishnamurthy Giridhar
+Ramesh Govindan
+Sunil Gowda
+Yueming Hu
+Devendra Jalihal
+Erik L. Johnson
+Christine E. Jones
+Sagar C. Joshi
+Admela Jukan
+Krishna Kant
+M. Karthick
+R. M. Karthik
+Anshu Khare
+Shalinee Kishore
+Uttara Korad
+Harini Krishnamurthy
+Rahul Kulkarni
+A. Anand Kumar
+Adithya Kumar
+Arun K. Kumar
+Kiran Kumar
+Yu
+Yuan
+Sookyoung Lee
+Bin Li
+Bo Li
+Lizhong Li
+Ying
+Stephanie Lindsey
+Christian Maciocco
+Indu Mahadevan
+G. Manimaran
+A. McGuire
+Manav Mishra
+Minal Mishra
+Seshadri Mohan
+Biswanath Mukherjee
+S. A. V. Satya Murty
+Piyush Naik
+P. Gireesan Namboothiri
+Srinath Narasimha
+Krishnan Narendran
+Sotiris E. Nikoletseas
+Ramakrishna Padmanabhan
+Santosh Pandey
+Sakshi Patni
+Sriram V. Pemmaraju
+Muthukumar Radhakrishnan
+Cauligi S. Raghavendra
+V. Rajaravivarma
+Byrav Ramamurthy
+Parameswaran Ramanathan
+Rajiv Ramaswami
+Aniruddha Rangnekar
+Karthikeyan Ravichandran
+G. Rouskas
+Ganesh Chennimala Sankaran
+Deva P. Seetharam
+Bharat Udai Seth
+Piyush Shah
+Surendra Sharma
+Ramakrishna Shenai
+Anusha Sivakumar
+Mahesh Sivakumar
+Manoj Sivakumar
+Kazem Sohraby
+Arun K. Somani
+Mani B. Srivastava
+Sundar Subramani
+Suresh Subramaniam
+Terence D. Todd
+Li
+Muthaiah Venkatachalam
+Subalakshmi Venugopal
+Vinod Vokkarane
+Chonggang Wang
+Jie Wang
+Bo Wen
+Jie Wu
+Xiangjun Wu
+Zhensheng Zhang
+Taieb Znati

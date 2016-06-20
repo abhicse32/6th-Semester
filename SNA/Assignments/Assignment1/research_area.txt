@@ -1,0 +1,13 @@
+John Augustine,Distributed Algorithms
+Shankar Balachandran,Computer architecture
+Sutanu Chakraborti,Machine learning
+Sukhendu Das,Computer vision
+T. A. Gonsalves,Computer networks
+D. Janakiram,Software engineering
+V. Kamakoti,Software aspects of VLSI design
+Deepak Khemani,Artifical intelligence
+P. Sreenivasa Kumar,Database systems
+Rajsekar Manokaran,Approximation Algorithms
+Chester Rebeiro,Hardware and System Security
+Anurag Mittal,Computer vision
+Hema A. Murthy,Computer networks

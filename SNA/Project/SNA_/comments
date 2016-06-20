@@ -1,0 +1,6 @@
+1. to run Community_detection.py type - `./Community_detection.py data_n/`    , where data_n is the directory containing graph edges
+2. to run plot_graph.py, type -  `./plot_graph.py  data_n/ result_files/ large_data/` where result_files contains output of the first program and large_data/ contains the files having large number of nodes.
+
+plot : while plotting the graph, I discarded the communities (more precisely, picture-sharing graph between usres in same/diffrent communities) having less than 5 nodes. It's "community-strength" vs "number of such communities" graph.
+
+* since labels for each month is available, explanation can be easy. Explain how the subgraph sizes are large in particular months of some years and why is it small in others. 
