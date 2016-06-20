@@ -1,0 +1,4 @@
+1. port number to be used: 4567
+2. program can be compiled by typing make in the directory containing makefile which will generate
+  two executables namely 'sender' and 'receiver' in the same directory
+3. To run client program type: ./sender -pPortnum -slocalhost and so on....please don't leave space betweent the flags and parameters. 

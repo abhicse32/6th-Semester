@@ -1,0 +1,7 @@
+all:ospf
+
+ospf: main.c
+	gcc -o ospf -pthread main.c -lm
+	
+clean:
+	rm ospf

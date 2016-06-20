@@ -1,0 +1,9 @@
+all:receiver sender
+
+receiver: receiver.cpp
+	g++ -o receiver receiver.cpp
+
+sender: sender.c
+	g++ -o sender sender.cpp
+clean:
+	rm receiver sender
